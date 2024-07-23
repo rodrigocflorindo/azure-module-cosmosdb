@@ -1,0 +1,6 @@
+subscription_id       = "c6a5ba67-682a-42ba-b850-e16c1aa8d265"
+resource_group_name   = "myResourceGroup"
+location              = "West US"
+cosmosdb_account_name = "azurecosmosdbaccountclean"
+offer_type            = "Standard"
+kind                  = "GlobalDocumentDB"
